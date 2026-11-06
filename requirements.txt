@@ -1,0 +1,19 @@
+# RAG stack (core technologies and embedding model)
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+openai
+python-dotenv
+streamlit
+pypdf
+beautifulsoup4
+requests
+
+# Multimodal ingestion support
+unstructured
+pillow
+pymupdf
+pytesseract
+faster-whisper
+
